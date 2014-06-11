@@ -36,3 +36,10 @@ rather than one script per DVD.
 * Add better queuing support. 
 * Configuration file in users home dir instead of at the top of the script
 * Ability to pass options in
+
+
+## Attribution
+This script is a result of pulling together lots of peoples suggestions that I 
+found on various forums, as well as my own pieces. I don't remember who or where 
+I got all the pieces  from, but if something in here looks like something you 
+wrote online somewhere, sometime, then thanks. 
