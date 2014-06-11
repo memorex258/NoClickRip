@@ -1,5 +1,4 @@
 # NoClickRip
-==========
 
 A 0 click media ripper for Linux. Currently just a dump of my poorly written 
 bash script that runs when I put a disk in my DVD drive. Feel free to use this
@@ -9,7 +8,6 @@ is to also do TV shows from DVDs, and music too.
 
 
 # Dependencies
-============
 
 I have no idea what the full list of dependencies are. I just installed things 
 as and when I needed them, so I'm not sure what's required to run this. The few 
@@ -27,7 +25,6 @@ own notify script, or comment those lines out.
 
 
 # Road Map
-========
 In no particular order, the bits I still want to get added are:
 
 * Clean up after encoding has finished
@@ -35,6 +32,7 @@ In no particular order, the bits I still want to get added are:
 * If a series DVD is entered, work out what it is, and where to put the files. 
 * Rip music CDs
 * Potentially rewrite it in a nicer language, and make it run as a proper application,
-rather than one script per DVD. Add better queuing support. 
+rather than one script per DVD. 
+* Add better queuing support. 
 * Configuration file in users home dir instead of at the top of the script
 * Ability to pass options in
